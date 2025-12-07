@@ -1,0 +1,6 @@
+2024-01-01 Paris Laptop 1200
+2024-01-02 Lyon Mouse 20
+2024-01-03 Paris Screen 300
+2024-01-15 Lyon Laptop 1100
+2024-02-01 Marseille Keyboard 50
+2025-01-05 Paris Laptop 1300
